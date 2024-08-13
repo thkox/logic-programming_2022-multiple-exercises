@@ -27,21 +27,21 @@ The repository is organized into three folders, each corresponding to a specific
 - **Task**: Implement Prolog predicates for managing and querying a database of families registered in a municipal registry.
 - **Topics Covered**: Prolog knowledge base, list handling, querying with conditions based on family size, birth year, and employment status.
 
-![Alt text](./images/first-exercise.png)
+   ![First exercise](./images/first-exercise.png)
 
 ### Exercise 2
 - **Task**: Write Prolog predicates to operate on lists, including determining list precedence, inclusion, and finding common elements.
 - **Topics Covered**: List operations in Prolog, including sublist detection, element matching, and list pairing.
 
-![Alt text](./images/second-exercise.png)
+   ![Second Exercise](./images/second-exercise.png)
 
 ### Exercise 3
 - **Task**: Model an object (e.g., a personal computer) in Prolog, including its components and subcomponents, and query its properties and materials.
 - **Topics Covered**: Prolog facts and rules, hierarchical data modeling, material classification, and complex querying.
 
-![Alt text](./images/third-exercise-1.png)
-![Alt text](./images/third-exercise-2.png)
-![Alt text](./images/third-exercise-3.png)
+   ![Third Exercise 1](./images/third-exercise-1.png)
+   ![Third Exercise 2](./images/third-exercise-2.png)
+   ![Third Exercise 3](./images/third-exercise-3.png)
 
 ## How to Run the Code
 
