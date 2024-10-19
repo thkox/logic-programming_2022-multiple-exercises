@@ -5,8 +5,8 @@
 This repository contains solutions for the exercises from the "Logical Programming" course, offered in the 5th semester of the 2022 academic year at the University of Piraeus, Department of Informatics. The exercises are implemented in Prolog, and each solution is accompanied by a detailed PDF document that includes the code and an example of correct execution.
 
 ## Course Information
-- **Institution:** University of Piraeus
-- **Department:** Department of Informatics
+- **Institution:** [University of Piraeus](https://www.unipi.gr/en/)
+- **Department:** [Department of Informatics](https://cs.unipi.gr/en/)
 - **Course:** Logic programming (2022)
 - **Semester:** 5th
 
